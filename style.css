@@ -9,7 +9,7 @@
 
 /* Стили прокрутки */
 :root {
-  scrollbar-color: rgb(210, 210, 210) rgb(46, 54, 69) !important;
+  scrollbar-color: #F2F2F2 #BF491F !important;
   scrollbar-width: thin !important;
 }
 
@@ -30,7 +30,7 @@ ul {
 }
 
 i {
-  color: #3399ff;
+  color: #BF491F;
   margin: 0 5px;
 }
 
@@ -62,7 +62,7 @@ li {
 }
 
 em {
-  color: #3399ff;
+  color: #BF491F;
   font-weight: 700;
   font-size: 0.8em;
   display: block;
@@ -70,7 +70,7 @@ em {
 }
 
 label {
-  color: #3399ff;
+  color: #BF491F;
   font-weight: 700;
   font-size: 0.8em;
   display: block;
@@ -90,7 +90,7 @@ img {
 }
 
 .QA {
-    color: #3399ff;
+    color: #D96E30;
 }
 
 .sub-title,
@@ -101,7 +101,7 @@ h5 {
 }
 
 .sub-title {
-  color: rgb(255, 254, 254);
+  color: #F2F2F2;
 }
 
 h5 {
@@ -118,11 +118,11 @@ h5 {
 .container .section_left {
   width: 25%;
   height: 100%;
-  min-height: 110vh;
+  min-height: 140vh;
   padding-bottom: 20px;
   padding: 20px;
-  background: #1b2631;
-  color: #fff;
+  background: #262121;
+  color: #F2F2F2;
 }
 
 .container .section_left img {
@@ -136,11 +136,11 @@ h5 {
   width: 90%;
   height: 10px;
   border-radius: 20px;
-  background: #1e1e1e;
+  background: #262121;
 }
 
 .container .progress_container .progress_bar {
-  background: #3399ff;
+  background: #D96E30;
   border-radius: 20px;
   height: 10px;
 }
@@ -178,3 +178,17 @@ h5 {
     position: static;
   }
 }
+/* Color Theme Swatches in Hex 
+.Mystical-&-Luxurious-1-hex { color: #2E003E; }
+.Mystical-&-Luxurious-2-hex { color: #D4AF37; }
+.Mystical-&-Luxurious-3-hex { color: #8A8D91; }
+.Mystical-&-Luxurious-4-hex { color: #F2F2F2; }*/
+
+/* Color Theme Swatches in Hex 
+.BYREDO-1-hex { color: #F29441; }
+.BYREDO-2-hex { color: #D96E30; }
+.BYREDO-3-hex { color: #BF491F; }
+.BYREDO-4-hex { color: #262121; }
+.BYREDO-5-hex { color: #F2F2F2; }*/
+
+
